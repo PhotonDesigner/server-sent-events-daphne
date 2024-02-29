@@ -1,4 +1,4 @@
-The simplest way to add server sent events to Django 🏺
+# The simplest way to add server sent events to Django 🏺
 Adding server sent events to your Django app is simple and powerful. It allows you to push updates to your frontend without the frontend needing to send requests, such as polling.
 
 I'll show you the simplest way (with the least code) to add server sent events to your Django app.
